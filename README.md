@@ -6,12 +6,12 @@
 
 ## 下载
 
-版本 1.0.0。安装包不包含苹果 APP，也不开通 APP 会员。
+版本 1.0.1。安装包不包含苹果 APP，也不开通 APP 会员。
 
 | 系统 | 文件 | 下载 |
 | --- | --- | --- |
-| macOS（Apple 芯片） | S2-SWM-PC-1.0.0-mac.dmg | [下载 dmg](https://github.com/SpaceSQ/s2-swm/releases/download/v1.0.0/S2-SWM-PC-1.0.0-mac.dmg) |
-| Windows 64 位 | S2-SWM-PC-1.0.0-win.exe | [下载 exe](https://github.com/SpaceSQ/s2-swm/releases/download/v1.0.0/S2-SWM-PC-1.0.0-win.exe) |
+| macOS（Apple 芯片） | S2-SWM-PC-1.0.1-mac.dmg | [下载 dmg](https://github.com/SpaceSQ/s2-swm/releases/download/v1.0.1/S2-SWM-PC-1.0.1-mac.dmg) |
+| Windows 64 位 | S2-SWM-PC-1.0.1-win.exe | [下载 exe](https://github.com/SpaceSQ/s2-swm/releases/download/v1.0.1/S2-SWM-PC-1.0.1-win.exe) |
 
 Mac 安装包尚未公证，Windows 安装包尚未做公司代码签名。确认文件来自广州智家科技有限公司后再打开。Intel Mac 不使用这份 dmg。
 
@@ -29,11 +29,13 @@ PC 版试用 3 天，之后只有一档：**9000 元/年**。
 ## 软件能做什么
 
 - 在固定舱体里载入数字人或具身机器人，开盖、封舱、运行并保存。
+- 舱内默认放上四类产品原型：具身机器人、智能家居音箱、消费电子耳机、AI 陪伴宠物。数字人使用线稿。也可以上传自己产品的正面图。
 - 按客户任务运行高湿语音、阳台传感器、陪伴产品误用推断、VR 感官负荷和科技馆场景包。
 - 进入 20 个地球自然环境。
 - 运行 STD-01 至 STD-32 标准检测。电离辐射、霉菌、活体、有害物质和冲击波只做推断。
 - 查看十四维张量、补给与碳排放、外观与功能反应。
 - 导出 JSON、CSV、MATLAB、SPSS、Origin。
+- 第一次打开即设置大模型。试用期内未填写自有模型时，使用本地算力或免费大模型，可能更慢且失真更大。填好接口后，按地球科学、物理学、化学、生物学和心理学给出计算过程与结果。
 - 按接口控制文件说明无线局域网、MQTT、以太网、USB、RS-485、CAN 和 EtherCAT。有线口是接口约定，安装包不加载实物驱动。
 - 用湿实验读数校正温度、湿度、照度、噪声、风速和气压的软件示值。虚拟张量不改写。
 
